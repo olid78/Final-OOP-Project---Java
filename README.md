@@ -13,32 +13,7 @@ It allows users to:
 - View expense history  
 - Manage budgets effectively  
 
-This project is created as part of my **final project submission** for Software Engineering coursework.  
-
----
-
-## 📁 Project Structure  
-│
-├── src/
-│   ├── entities/
-│   │   ├── User.java
-│   │   ├── Category.java
-│   │   └── Expense.java
-│   │
-│   ├── storage/
-│   │   └── DataStorage.java
-│   │
-│   ├── manager/
-│   │   └── ExpenseManager.java
-│   │
-│   ├── gui/
-│   │   └── MainFrame.java
-│   │
-│   └── App.java   ← (Main entry point )
-│
-├── finance_data.ser   ← (Serialized data file)
-│
-└── README.md   ← (Project description & usage instructions)
+This project is created as part of my **final project submission** for OOP LAB coursework.  
 
 ---
 
